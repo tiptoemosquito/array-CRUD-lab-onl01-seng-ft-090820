@@ -7,7 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-array_element.push  "ice"
+create_an_array = ["earth", "wind", "fire", "water"]
+create_an_array.push("ice")
 end
 
 def add_element_to_start_of_array(array, element)
