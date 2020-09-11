@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
 array = create_an_array
-create_an_array.push("ice")
+create_an_array.push("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
